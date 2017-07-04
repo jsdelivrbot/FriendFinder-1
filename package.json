@@ -2,7 +2,10 @@
     "name": "FriendFinder",
     "version": "1.0.0",
     "description": "The app will then display the name and picture of the user with the best overall match.",
-    "main": "index.js",
+    "main": "server.js",
+    "engines": {
+        "node": "6.10.2"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/arienellefsen/FriendFinder.git"
