@@ -4,7 +4,7 @@
     "description": "The app will then display the name and picture of the user with the best overall match.",
     "main": "server.js",
     "engines": {
-        "node": "6.10.2"
+        "node": "7.10.0"
     },
     "repository": {
         "type": "git",
